@@ -1,0 +1,17 @@
+package Principal;
+
+import Ventanas.VentanaArista;
+import Ventanas.VentanaPrincipal;
+
+
+
+
+/**
+ *
+ * @author KATY
+ */
+public class Principal {
+    public static void main(String[] args) {
+        new VentanaPrincipal().setVisible(true);
+ }
+}
